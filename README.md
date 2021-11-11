@@ -1,1 +1,2 @@
-# PROJECT27-tablet-solution
+# swing-to-survive
+Sling Game
